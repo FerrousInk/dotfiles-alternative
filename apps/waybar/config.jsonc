@@ -1,7 +1,4 @@
 {
-  "modules-left": [
-    "tray"
-  ],
   "modules-center": [
     "clock"
   ],
@@ -9,7 +6,8 @@
     "battery",
     "memory",
     "cpu",
-    "pulseaudio"
+    "pulseaudio",
+    "tray"
   ],
   "pulseaudio": {
     "format": "  {volume}%"
